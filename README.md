@@ -10,3 +10,4 @@
 
 ## PS
 - The whole bot is crammed into one poor file. There are many shortcomings.
+- And the whole bot and databases are in Russian (-)_(-)
