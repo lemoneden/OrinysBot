@@ -1,9 +1,9 @@
 # OrinysBot
 
 ## Files
-`bot.py` - the main file with the bot.\br
-`tests.A json` - database of tests with questions.\br
-`answers.json` - database of correct test responses.\br
+- `bot.py` - the main file with the bot.
+- `tests.A json` - database of tests with questions.
+- `answers.json` - database of correct test responses.
 
 ## Start a bot
 /start - start a bot in Telegram.
